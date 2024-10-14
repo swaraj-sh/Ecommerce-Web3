@@ -1,1 +1,1 @@
-# Ecommerce-Web3
+# Shopzone - An ecommerce Website
